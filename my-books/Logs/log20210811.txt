@@ -1,0 +1,1 @@
+08/11/2021 14:23:59 -05:00 [] - Message: This is a log in GetAllPublishers()
